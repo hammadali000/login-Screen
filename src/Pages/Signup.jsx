@@ -103,7 +103,6 @@ export default function Signup() {
 
   return (
     <div className="relative w-[1440px] h-[1024px] overflow-hidden bg-gradient-to-b from-[#0b6b5c] to-[#04302b]">
-      {/* Left image (put character.png in the public folder) */}
       <img
         src={image}
         alt=""
